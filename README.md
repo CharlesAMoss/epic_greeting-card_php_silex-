@@ -3,9 +3,14 @@
 ## Getting started with Silex
 
 basic app examples making use of routes
+
 **greeting** prints a greeting message to screen
+
 **rectangle** uses user input and returns whether square or rectangle
+
 **cd** displays a table containing album information based on data object
+
+
 
 by Kevin Tokheim and Charlie Moss
 --
